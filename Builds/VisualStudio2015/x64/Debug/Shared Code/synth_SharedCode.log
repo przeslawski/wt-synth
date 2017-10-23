@@ -1,0 +1,21 @@
+﻿  PluginProcessor.cpp
+e:\projects\synth\source\..\Builds\VisualStudio2015\WavetableSynthesizer.h(37): warning C4100: 'currentPitchWheelPosition': unreferenced formal parameter
+e:\projects\synth\source\..\Builds\VisualStudio2015\WavetableSynthesizer.h(36): warning C4100: 'sound': unreferenced formal parameter
+e:\projects\synth\source\..\Builds\VisualStudio2015\WavetableSynthesizer.h(35): warning C4100: 'velocity': unreferenced formal parameter
+e:\projects\synth\source\..\Builds\VisualStudio2015\WavetableSynthesizer.h(43): warning C4100: 'velocity': unreferenced formal parameter
+e:\projects\synth\source\..\Builds\VisualStudio2015\WavetableSynthesizer.h(54): warning C4100: 'newValue': unreferenced formal parameter
+e:\projects\synth\source\..\Builds\VisualStudio2015\WavetableSynthesizer.h(59): warning C4100: 'newValue': unreferenced formal parameter
+e:\projects\synth\source\..\Builds\VisualStudio2015\WavetableSynthesizer.h(59): warning C4100: 'controllerNumber': unreferenced formal parameter
+e:\projects\synth\source\..\Builds\VisualStudio2015\WavetableSynthesizer.h(66): warning C4100: 'numSamples': unreferenced formal parameter
+e:\projects\synth\source\..\Builds\VisualStudio2015\WavetableSynthesizer.h(65): warning C4100: 'startSample': unreferenced formal parameter
+e:\projects\synth\source\..\Builds\VisualStudio2015\WavetableSynthesizer.h(64): warning C4100: 'outputBuffer': unreferenced formal parameter
+..\..\Source\PluginProcessor.cpp(108): warning C4100: 'index': unreferenced formal parameter
+..\..\Source\PluginProcessor.cpp(112): warning C4100: 'index': unreferenced formal parameter
+..\..\Source\PluginProcessor.cpp(117): warning C4100: 'newName': unreferenced formal parameter
+..\..\Source\PluginProcessor.cpp(117): warning C4100: 'index': unreferenced formal parameter
+..\..\Source\PluginProcessor.cpp(122): warning C4100: 'samplesPerBlock': unreferenced formal parameter
+..\..\Source\PluginProcessor.cpp(122): warning C4100: 'sampleRate': unreferenced formal parameter
+..\..\Source\PluginProcessor.cpp(223): warning C4100: 'destData': unreferenced formal parameter
+..\..\Source\PluginProcessor.cpp(230): warning C4100: 'sizeInBytes': unreferenced formal parameter
+..\..\Source\PluginProcessor.cpp(230): warning C4100: 'data': unreferenced formal parameter
+  synth_SharedCode.vcxproj -> E:\Projects\synth\Builds\VisualStudio2015\x64\Debug\Shared Code\synth.lib
